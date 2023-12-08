@@ -166,24 +166,7 @@ echo start E:\Kafka\application\bin\windows\kafka-topics.bat --describe --zookee
 
 echo start E:\Kafka\application\bin\windows\kafka-topics.bat --describe --zookeeper localhost:2181 --topic product_topic > E:\Kafka\batch\Status_product_topic.bat
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Fim !! 
-
-Se você chegou até o final e obteve êxito, parabéns ! você ja é capaz de implementar o apache kafka em ambiente windows\kafka-console-consumer
-
-Obrigado !
-
-Desejo todo sucesso do mundo a você 
-
-Que deus lhe acompanhe sempre
-
-Abração 
-
-Matheus Pavanetti
-matheuspavanetti@gmail.com
-23/07/2020
-
+-------------------------------------------------------------------------------------------------------------------------
 
 
 
